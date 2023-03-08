@@ -2,5 +2,22 @@
   "dependencies": {
     "bootstrap": "^5.2.3",
     "lodash": "^4.17.21"
-  }
+  },
+  "name": "tutorial",
+  "version": "1.0.0",
+  "main": "10-fs-sync.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/EduardoMoreira25/temp-node-tut.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/EduardoMoreira25/temp-node-tut/issues"
+  },
+  "homepage": "https://github.com/EduardoMoreira25/temp-node-tut#readme",
+  "description": ""
 }
